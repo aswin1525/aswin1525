@@ -76,7 +76,6 @@ I’m an IT student who enjoys building practical tools, creating clean and mode
 
 ### ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aswin1525/aswinprof/main/github-metrics.svg" alt="Recent Activity" />
 </div>
