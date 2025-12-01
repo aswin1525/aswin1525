@@ -41,7 +41,7 @@ I'm a passionate developer who loves coding, open source, and building amazing p
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/aswin1525/aswinprof/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/aswin1525/aswinprof/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
