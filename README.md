@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I’m an IT student who enjoys building practical tools, creating clean and modern user interfaces, and experimenting with new ideas in development and design. I use GitHub to track my learning, improve my code quality, and document my progress through projects.
+I’m an IT student who enjoys building practical tools, creating clean and modern user interfaces, and experimenting with new ideas in development and design. I create creative stuffs.
 
 ---
 
