@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I’m an IT student who enjoys building practical tools, creating clean and modern user interfaces, and experimenting with new ideas in development and design. I create creative stuffs.
+I’m an IT student who enjoys building practical tools, creating clean and modern user interfaces, and experimenting with new ideas in development and design. I create creative stuff.
 
 ---
 
