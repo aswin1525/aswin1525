@@ -6,29 +6,70 @@
 
 I’m an IT student who enjoys building practical tools, creating clean and modern user interfaces, and experimenting with new ideas in development and design. I create creative stuff.
 
----
+<table>
+<tr>
 
-### 🛠️ Skills
+<td width="48%" valign="middle">
 
-**Languages:**
+<pre>                                     
+                                    +*######%%#**####*+                          
+                               +###%@%%%%@@%%#%@@@@@@@@@%#+                      
+                          ++=+*%%%@@@@@@@@@@%@@@@@@@@@@@@@@#+                    
+                        =+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=                  
+                       =+#%%%%%@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@%*                 
+                      -++**##%%%@@@@@@@@@@@@%#*******##%@@@@@@%#                 
+                       =*#%@@@@@@@@@@@@@@@@%#++++******++*@@@@%+                 
+                       *%%%@@@@@@@@@@@@@@%*+===++**++======@%*                   
+                      =*%%@@@@@@@@@@@@@@#+====++*##%@@%+=--++                    
+                      +#%@@@@*####@@@@@%+=-=+*#%%%%@@@@%#++=-                    
+                       #%@@%#%**#####%%#=--==++*###%@@%%**%%#*                   
+                       *#%@%#*#%%%#+=#%*========+++*##**+=#%+                    
+                        *#@@#*#%%##*+#%#+++++***+++++*+===-=-                    
+                          #%@+*+***#+#%%#++**###**++**++*#*+-                    
+                           %@@#+*##%**%%#***###***+++*#####=                     
+                            %@@*=+**++*#***####*****#####==                      
+                             #@#=+**+=++***#######%%%%##%%=                      
+                             #%*-=***++***#######%%%%%%%*+=                      
+                              %+-=+*###%%##########%%%%%#=                       
+                             *=-=+*###%%%%%%%%#########=-                        
+                             :--=+*###%%%%%%@@@@%%%%@%%+                         
+                  --=%@+-*@%=---=+*###%%####%%@@%#***+-                          
+                  --+%*++=-======+*###%#####%%%%+                                
+                  -=-+%#***+=*+++**###%%###%%%%#%+=                              
+                 ===++=+%%%%%#+****###%%%#%%%%**%@@#-                            
+               --=**#%%#++%@@@@%*+###%%%%%%%%#+#@@@%%*-                          
+           ===+***+#%%%%%%#*#@@@@@#**%%%%%%%%**%@%@@%%#=-                        
+      -=+++*++**######@@@@@@%**%@@@@@#*#%%%%#**@@@%%%%%#=-                       
+      +++*******###%%###%@@@@@@#*#@@@@@@#+*##**%@@@%#%##*=====                   
+      ##*******#####%%%%#%%@@@@@@%#*%@@@@@@%+=++*@@%*%###*=++=++=-               
+                                                                            
+</pre>
+
+</td>
+
+<td width="52%" valign="top">
+
+<h3>🛠️ Skills</h3>
+
+<b>Languages:</b>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Frameworks & Backend:**
+<b>Frameworks & Backend:</b>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 </p>
 
-**Database:**
+<b>Database:</b>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-**Frontend:**
+<b>Frontend:</b>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -37,7 +78,7 @@ I’m an IT student who enjoys building practical tools, creating clean and mode
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Design & Tools:**
+<b>Design & Tools:</b>
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
@@ -45,7 +86,10 @@ I’m an IT student who enjoys building practical tools, creating clean and mode
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+</td>
+
+</tr>
+</table>
 
 ### 📊 GitHub Stats
 
